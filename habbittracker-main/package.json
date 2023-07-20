@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahulsups/habit-tracker.git"
+    "url": "git+https://github.com/chanakyanagasaibheesetti/habbittracker-main"
   },
-  "author": "Rahul",
+  "author": "Chanakya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rahulsups/habit-tracker/issues"
+    "url": "https://github.com/chanakyanagasaibheesetti/habbittracker-main"
   },
-  "homepage": "https://github.com/rahulsups/habit-tracker#readme",
+  "homepage": "https://github.com/chanakyanagasaibheesetti/habbittracker-main",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "dotenv": "^8.2.0",

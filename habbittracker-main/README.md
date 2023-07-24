@@ -19,7 +19,7 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/habit-tracker.git`
+`git clone https://github.com/chanakyanagasaibheesetti/habbittracker-main`
 
 ##### Into the project directory
 
